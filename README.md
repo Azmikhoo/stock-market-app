@@ -1,4 +1,4 @@
-# stock-streamlit-app
+
 # Stock Price Prediction App
 
 A web application built with Streamlit to predict stock prices using machine learning models.  
