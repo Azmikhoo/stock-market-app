@@ -58,7 +58,7 @@ Users can input a stock ticker and view predicted stock prices based on the trai
 
 Clone the repository:
 
-git clone https://github.com/Azmikhoo/stock-streamlit-app.git
+git clone https://github.com/Azmikhoo/stock-market-app.git
 
 Install dependencies:
 
